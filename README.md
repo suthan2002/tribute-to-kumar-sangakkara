@@ -1,2 +1,2 @@
-# tribute-to-kumar-sangakkara
-Tribute to Kumar Sangakkara-For teaching purpose
+# Tribute to Kumar Sangakkara
+Tribute to Kumar Sangakkara- For teaching purpose
