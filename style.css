@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: 0%;
+    background-image: url('https://media.istockphoto.com/id/538599228/photo/sky.jpg?b=1&s=170667a&w=0&k=20&c=EIeNrqHN8BEUeqFJQmWpxlPHw4Or47QYZ66xFsXjRIE=');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: rgba(251, 255, 255, 0.612);
+}
+
+figcaption {
+    font-size: 20px;
+}
+
+a {
+    color: rgb(51, 0, 254);
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0,0,0);
+    text-align: center;
+}
+
+hr {
+    color: aliceblue;
+    background-color: aliceblue;
+    height: 2px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
